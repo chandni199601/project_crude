@@ -1,0 +1,9 @@
+body{
+background-image:url("https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+background-repeat:no-repeat;
+background-size:cover;
+}
+h1{
+color:red;text-align:center;font-family:candara;
+font-weight:bolder;
+}
